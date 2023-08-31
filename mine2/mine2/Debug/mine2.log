@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\User\source\repos\mine2\mine2\main.cpp(342,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\mine2\mine2\main.cpp(343,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\mine2\mine2\main.cpp(382,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\source\repos\mine2\mine2\main.cpp(383,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  mine2.vcxproj -> C:\Users\User\source\repos\mine2\Debug\mine2.exe
